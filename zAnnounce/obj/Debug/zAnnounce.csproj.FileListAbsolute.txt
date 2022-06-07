@@ -1,0 +1,15 @@
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\zAnnounce.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\zAnnounce.pdb
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\Assembly-CSharp.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\com.rlabrecque.steamworks.net.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\Rocket.API.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\Rocket.Core.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\Rocket.Unturned.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\SDG.NetPak.Runtime.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\SDG.NetTransport.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\UnityEngine.CoreModule.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\bin\Debug\UnityEngine.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\obj\Debug\zAnnounce.csproj.CoreCompileInputs.cache
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\obj\Debug\zAnnounce.csproj.CopyComplete
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\obj\Debug\zAnnounce.dll
+C:\Users\Joseph\source\repos\zAnnounce\zAnnounce\obj\Debug\zAnnounce.pdb
